@@ -1,0 +1,23 @@
+{
+  "name": "html-exercises",
+  "version": "1.0.0",
+  "description": "ejercicios de n00b de js+html",
+  "main": "index.js",
+  "scripts": {
+	"server": "serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Enorma/html-exercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Enorma/html-exercises/issues"
+  },
+  "homepage": "https://github.com/Enorma/html-exercises#readme",
+  "devDependencies": {
+    "server": "^1.0.18"
+  }
+}
